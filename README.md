@@ -69,9 +69,17 @@ Apesar das melhorias proporcionadas pela utilização das protoboards, a falta d
 Abaixo apresentamos as fotos dos dois circuitos:
 
 <div align="center">
-    <sub><a name="figura1"></a>Figura 1 - Circuito montado em protoboard</sub>
+    <sub><a name="figura1"></a>Figura 1 - Circuito 1 montado em protoboard</sub>
     <br>
-    <img src="caminho_imagem" alt="Circuito montado em protoboard"/>
+    <img src="assets/circuito1.jpg" alt="Circuito 1 montado em protoboard"/>
+    <br>
+    <sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+<div align="center">
+    <sub><a name="figura1"></a>Figura 1 - Circuito 2 montado em protoboard</sub>
+    <br>
+    <img src="assets/circuito2.jpg" alt="Circuito 2 montado em protoboard"/>
     <br>
     <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
