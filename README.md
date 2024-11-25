@@ -47,6 +47,7 @@
 | *N.º* | *Título*                                                 |
 |---------|------------------------------------------------------------|
 | 1       | [Figura 1 - Circuito montado em protoboard](#figura1)      |
+| 1       | [Figura 2 - Circuito montado em protoboard](#figura2)      |
 
 </div>
 <div align="center">
@@ -66,23 +67,20 @@ Tomamos a decisão de realizar a montagem do circuito em protoboards devido a di
 
 Apesar das melhorias proporcionadas pela utilização das protoboards, a falta de jumpers de tamanho adequado ainda resultou em uma certa confusão na organização dos fios. O comprimento excessivo dos jumpers disponíveis gerou sobreposição em algumas áreas, dificultando a visualização clara do circuito.
 
-Abaixo apresentamos as fotos dos dois circuitos:
+Para a organização do circuito, os jumpers claros (branco, vermelho, laranja, verde e amarelo) foram utilizados para representar conexões de alimentação de 5V ou 3.3V, enquanto os jumpers escuros (azuis e pretos) foram utilizados para representar GND. Não seguimos o padrão convencional de cores (laranja para 3.3V, vermelho para 5V e preto para GND) devido à falta de disponibilidade de jumpers no laboratório, o que limitou nossa capacidade de padronização.
+
+Abaixo apresentamos as fotos dos dois circuitos montados e o link do vídeo do funcionamento do projeto:
 
 <div align="center">
-    <sub><a name="figura1"></a>Figura 1 - Circuito 1 montado em protoboard</sub>
+    <sub><a name="figura1"></a>Figura 1 - Circuito 1 e Circuito 2 montados em protoboard</sub>
     <br>
-    <img src="assets/circuito1.jpg" alt="Circuito 1 montado em protoboard"/>
+    <img src="assets/circuito1.jpg" alt="Circuito 1 montado em protoboard" style="width: 48%; display: inline-block; margin-right: 1%;"/>
+    <img src="assets/circuito2.jpg" alt="Circuito 2 montado em protoboard" style="width: 48%; display: inline-block;"/>
     <br>
     <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 
-<div align="center">
-    <sub><a name="figura1"></a>Figura 1 - Circuito 2 montado em protoboard</sub>
-    <br>
-    <img src="assets/circuito2.jpg" alt="Circuito 2 montado em protoboard"/>
-    <br>
-    <sup>Fonte: Material produzido pelos autores (2024)</sup>
-</div>
+Link do vídeo: <https://drive.google.com/file/d/1lkhqmSv7XgiFWKU5fEFeWiGBKbXsNo8a/view?usp=sharing>
 
 Os componentes utilizados estão listados na tabela abaixo, divididos igualmente entre os dois protótipos desenvolvidos.
 
@@ -102,8 +100,8 @@ Os componentes utilizados estão listados na tabela abaixo, divididos igualmente
 | LED Vermelho           | 2              |
 | Antena Wi-Fi           | 2              |
 | LDR                    | 4              |
-| Resistor               | 5              |
-| Jumper                 | 18             |
+| Resistor               | 10             |
+| Jumper                 | 22             |
 | Buzzer                 | 2              |
 
 </div>
@@ -139,10 +137,9 @@ Abaixo apresentamos o link da plataforma e dos graficos individuais.
 
 | *Descrição*                                  | *Link*         |
 |------------------------------------------------|------------------|
-| Gráfico do Semáforo A                          | [Gráfico A](#figura2) |
-| Gráfico do Semáforo B                          | [Gráfico B](#figura3) |
-| Botão de Controle do Modo Noturno - Semáforo A | [Botão A](#figura2) |
-| Botão de Controle do Modo Noturno - Semáforo B | [Botão B](#figura3) |
+| Plataforma (Ubidots)                           | [Ubidots](https://inteli-ubidots.iot-application.com/app/dashboards/672902db87a2978bf4c09b18) |
+| Gráfico do Semáforo A                          | [Gráfico A](https://inteli-ubidots.iot-application.com/app/dashboards/public/widget/HywLLmlnQzbGxvp-cnGk_yAOYqbBZHMSN_PZsBOJ3Bg) |
+| Gráfico do Semáforo B                          | [Gráfico B](https://inteli-ubidots.iot-application.com/app/dashboards/public/widget/_Du_8-vGztPSb1HZy0stllfTIlUNG0WWCyVYc-Wu6v8) |
 
 </div>
 <div align="center">
