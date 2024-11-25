@@ -26,7 +26,7 @@
 |---------|---------------------------------------------------------------------------------|
 | 1       | [Tabela 1 - Componentes utilizados no projeto](#tabela1)                       |
 | 2       | [Tabela 2 - Links para a interface online](#tabela2)                           |
-| 3       | [Tabela 1 - Sumário Visual (Tabelas)](#tabela1)                                |
+| 3       | [Tabela 3 - Sumário Visual (Tabelas)](#tabela1)                                |
 
 </div>
 <div align="center">
